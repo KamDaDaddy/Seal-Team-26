@@ -1,9 +1,17 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.polybrush@1.0.2/Content/Icons/Toolbar/PaintTextures@2x.png.meta
 guid: 5987a6fad3d60754ea4abb8702160b4d
+========
+guid: a57001d8537db4c53baadfb9b6737e1f
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Landscape.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.polybrush@1.0.2/Content/Icons/Toolbar/PaintTextures@2x.png.meta
   serializedVersion: 8
+========
+  serializedVersion: 7
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Landscape.png.meta
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -31,7 +39,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.polybrush@1.0.2/Content/Icons/Toolbar/PaintTextures@2x.png.meta
     filterMode: 1
+========
+    filterMode: -1
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Landscape.png.meta
     aniso: 1
     mipBias: -100
     wrapU: 1
@@ -91,6 +103,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -98,7 +121,10 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.polybrush@1.0.2/Content/Icons/Toolbar/PaintTextures@2x.png.meta
     internalID: 0
+========
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Landscape.png.meta
     vertices: []
     indices: 
     edges: []

@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Editor/MenuActions/Selection/SelectSmoothingGroup.cs.meta
 guid: ffe60d522a0a4b0489a5bfe4bb6b4fb1
 timeCreated: 1505081073
+========
+guid: b1d356e7c38dd4be9ad4c70e67d4d3de
+timeCreated: 1439309260
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.purchasing@4.1.2/Runtime/Codeless/ComboBox.cs.meta
 licenseType: Pro
 MonoImporter:
-  externalObjects: {}
   serializedVersion: 2
   defaultReferences: []
   executionOrder: 0

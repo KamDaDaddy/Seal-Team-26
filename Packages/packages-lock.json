@@ -79,6 +79,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.polybrush": {
       "version": "1.0.2",
       "depth": 0,
@@ -97,6 +98,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.purchasing": {
       "version": "4.1.2",
       "depth": 0,
@@ -120,6 +123,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 1,
@@ -127,6 +131,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.test-framework": {
       "version": "1.1.29",
       "depth": 0,

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Prefabs.meta
 guid: 6f456600e97044b45841a41e37ccf695
+========
+guid: b1c7f0c50b0c1d7458d2d0a50ebfefef
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/Interface.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

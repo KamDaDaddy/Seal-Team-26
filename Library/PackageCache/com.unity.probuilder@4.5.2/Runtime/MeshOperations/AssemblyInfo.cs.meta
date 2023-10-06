@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Runtime/MeshOperations/AssemblyInfo.cs.meta
 guid: ab8e2d6a92a04e42baab6202f8650fb3
 timeCreated: 1510169863
+========
+guid: 798968d841703b54bb9d08b1da6bc52f
+timeCreated: 1459501500
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/RootCanvasTests.cs.meta
 licenseType: Pro
 MonoImporter:
-  externalObjects: {}
   serializedVersion: 2
   defaultReferences: []
   executionOrder: 0

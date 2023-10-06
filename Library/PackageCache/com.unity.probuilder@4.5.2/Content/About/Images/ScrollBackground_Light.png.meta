@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Content/About/Images/ScrollBackground_Light.png.meta
 guid: ce3f23f83566d4c859587839aee9eaca
+========
+guid: 75f26f1c549568c4e9950a368bd08cb8
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.timeline@1.4.8/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png.meta
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 6
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -33,7 +37,11 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: -1
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Content/About/Images/ScrollBackground_Light.png.meta
     mipBias: -1
+========
+    mipBias: 0
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.timeline@1.4.8/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png.meta
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -49,7 +57,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 0
   textureShape: 1

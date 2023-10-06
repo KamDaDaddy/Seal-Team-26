@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Content/About/Images/Banner_Hover.png.meta
 guid: c012858f9c644432a934c73ca6083da1
+========
+guid: 6c9acc1f9cd7248fdb7d40b8d300be76
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Portrait.png.meta
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -31,9 +35,15 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     serializedVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Content/About/Images/Banner_Hover.png.meta
     filterMode: 0
     aniso: 1
     mipBias: -1
+========
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Portrait.png.meta
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -51,7 +61,11 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.probuilder@4.5.2/Content/About/Images/Banner_Hover.png.meta
   textureType: 0
+========
+  textureType: 2
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ads@3.7.5/Editor/Resources/Portrait.png.meta
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -91,6 +105,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -103,6 +128,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
