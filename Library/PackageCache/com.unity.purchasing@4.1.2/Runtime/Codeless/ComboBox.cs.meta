@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Library/PackageCache/com.unity.purchasing@4.1.2/Runtime/Codeless/ComboBox.cs.meta
 guid: b1d356e7c38dd4be9ad4c70e67d4d3de
 timeCreated: 1439309260
+========
+guid: 4b8be68229770db4ea3c78ab0d854325
+timeCreated: 1456921340
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/InputField/CharacterLimitValidation.cs.meta
 licenseType: Pro
 MonoImporter:
   serializedVersion: 2
